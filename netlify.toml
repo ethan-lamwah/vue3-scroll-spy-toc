@@ -1,6 +1,4 @@
 [build]
-  base = "vue3-scroll-spy-toc/"
-  # This is relative to the base directory if one has been set
   publish = "dist/"
   command = "npm run build"
 
