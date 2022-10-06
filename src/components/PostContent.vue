@@ -24,7 +24,7 @@ const { currentSection, toc } = useScrollToc(
         >Intersection Observer API</a
       >.
     </p>
-    <p>Check out the source code <a href="#">here</a>, enjoys!</p>
+    <p>Check out the source code <a href="https://github.com/ethan-lamwah/vue3-scroll-spy-toc">here</a>, enjoys!</p>
   </header>
   <main>
     <section>
