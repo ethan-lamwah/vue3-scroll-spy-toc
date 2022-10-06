@@ -1,29 +1,7 @@
 # vue3-scroll-spy-toc
 
-This template should help get you started developing with Vue 3 in Vite.
+Hi, everyone! This is a demo about how to create a dynamic table of contents with ScrollSpy effect using Vue's [Composition API](https://vuejs.org/guide/extras/composition-api-faq.html) and [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API). 
 
-## Recommended IDE Setup
+Enjoys!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## How to use it?
