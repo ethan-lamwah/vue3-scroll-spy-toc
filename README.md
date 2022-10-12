@@ -28,13 +28,15 @@ const { currentSection, toc } = useScrollToc(
 
 ## Parameters of useScrollToc
 
-`selector`
+**`selector`**
 
 A group of [selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) to match the dynamic post content.
 
 e.g. passing  `"article[data-toc-content]"` as the argument if your content wraps in `article` with data attribute `data-toc-content`
-
-`tocOptions` 
+\
+\
+\
+**`tocOptions`**
 
 The options to customize `toc` object. 
 
@@ -45,10 +47,15 @@ The options to customize `toc` object.
 | anchorClass | Specify CSS class of the anchor tag | toc-anchor | string |
 | headerClass | Specify CSS class of heading in table of contens | toc-header | string |
 
-`observerOptions`
+\
+\
+\
+**`observerOptions`**
 
 The `observerOptions` object is equivalent to [Intersection observer options](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API#intersection_observer_options) letting you control the circumstances under which the observer's callback is invoked.
-
+\
+\
+\
 Perfect! Let’s expose the result in template:
 
 ```html
@@ -83,7 +90,7 @@ Perfect! Let’s expose the result in template:
 
 ## toc properties
 
-`headers` 
+**`headers`** 
 
 An array contains a list of headings for your article.
 
