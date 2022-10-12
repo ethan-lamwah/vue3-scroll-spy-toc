@@ -120,4 +120,4 @@ Example:
 
 # Reference
 
-****[Sticky ScrollSpy Table of Contents in Vue.js](https://medium.com/ascentic-technology/sticky-scrollspy-table-of-contents-in-vue-js-73d2d6f0a1cd) -** Chamara Senarath
+[Sticky ScrollSpy Table of Contents in Vue.js](https://medium.com/ascentic-technology/sticky-scrollspy-table-of-contents-in-vue-js-73d2d6f0a1cd) - Chamara Senarath
