@@ -4,7 +4,7 @@ Hi, everyone! I created a composable function on Vue to simplify the implementat
 
 This function is designed for **dynamic HTML rendering**. It’s useful when you are dealing with dynamic html contents via CMS. 
 
-Check out the [demo](https://ethanlam-vue3-scroll-spy-toc.netlify.app/), enjoys!
+Check out this [post](https://www.ethanlam.dev/post/dynamic-table-of-contents-with-scroll-spy-effect-i) or [demo](https://ethanlam-vue3-scroll-spy-toc.netlify.app/), enjoys!
 
 # How to use it?
 
